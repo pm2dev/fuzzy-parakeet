@@ -1,6 +1,6 @@
 // The first letter of this file name is lower case, which is generally the case when we are not exporting a React component from the file.
 
-import { CAMPSITES } from '../../shared/campsites';
+import { CAMPSITES } from '../../app/shared/CAMPSITES';
 
 
 // the selectAllCampsites function is a selector function that returns the entire array of campsites from the CAMPSITES array.
