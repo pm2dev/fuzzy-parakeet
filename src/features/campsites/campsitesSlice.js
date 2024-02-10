@@ -17,7 +17,7 @@ export const selectAllCampsites = () => {
 // The function on line 13 was removed because it was tied to the random button that was a stepping stone in the coding project. I am keeping it because it explains math.floor and math.random.
 
 export const selectCampsiteById = (id) => {
-    return CAMPSITES.find((campsite) => campsite.id === id);
+    return CAMPSITES.find((campsite) => campsite.id === parseInt(id));
 };
 
 export const selectFeaturedCampsite = () => {
