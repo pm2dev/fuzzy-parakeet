@@ -1,6 +1,6 @@
 # My React App
 
-This is a basic React app that I am building as part of my learning process. The purpose of this app is to practice and demonstrate my understanding of React concepts. The site can be viewed by visiting https://pm2dev.github.io/fuzzy-parakeet/.
+This is a basic React app that I am building as part of my learning process. The purpose of this app is to practice and demonstrate my understanding of React concepts. 
 
 ## Disclaimer
 
